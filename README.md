@@ -14,30 +14,14 @@ Currently building production-ready AI applications.
 
 📚 Amazon Author:-  https://www.amazon.com/dp/9334370580
 
-Tech Stack
-Python
+## 🛠️ Tech Stack
 
-Java
-
-SQL
-
-TensorFlow
-
-PyTorch
-
-Scikit-learn
-
-Docker
-
-MLflow
-
-Flask
-
-Git
-
-GitHub
-
-OpenCV
+**Languages:** Python, Java, SQL  
+**Machine Learning:** Scikit-learn, TensorFlow, Pandas, NumPy  
+**AI Domains:** NLP, Computer Vision, Deep Learning  
+**Web:** Flask, HTML, CSS  
+**MLOps:** Docker, MLflow, DVC, GitHub Actions  
+**Tools:** Git, GitHub, VS Code
 
 Current Projects
 AI Resume Screener
