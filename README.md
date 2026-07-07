@@ -1,16 +1,47 @@
-## Hi there 👋
+Hi 👋 I'm Subhradeep Saha
 
-<!--
-**subhra12-commits/subhra12-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Machine Learning Engineer
 
-Here are some ideas to get you started:
+Python | Deep Learning | NLP | Computer Vision | MLOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building production-ready AI applications.
+
+📍 India
+
+📧 Email:- rosesaha2k@gmail.com
+
+🌐 LinkedIn:- https://www.linkedin.com/in/subhradeep-saha-51a3732a7/
+
+📚 Amazon Author:-  https://www.amazon.com/dp/9334370580
+
+Tech Stack
+Python
+
+Java
+
+SQL
+
+TensorFlow
+
+PyTorch
+
+Scikit-learn
+
+Docker
+
+MLflow
+
+Flask
+
+Git
+
+GitHub
+
+OpenCV
+
+Current Projects
+AI Resume Screener
+
+Customer Churn Prediction
+
+Smart Hostel Management
