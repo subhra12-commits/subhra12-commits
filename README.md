@@ -24,6 +24,7 @@ Currently building production-ready AI applications.
 **Tools:** Git, GitHub, VS Code
 
 Current Projects
+
 AI Resume Screener
 
 Customer Churn Prediction
